@@ -11,4 +11,9 @@ public class RestAssuredCode
 	{
 		System.out.println("Kuldeep's work");
 	}
+	
+	public void restAssured3()
+	{
+		System.out.println("Kapil's work");
+	}
 }
